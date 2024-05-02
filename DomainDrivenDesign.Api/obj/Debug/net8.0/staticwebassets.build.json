@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8sEAwEIIVI7zJEQs3BZKwkprKNadXD5OARlGzeA+RgE=",
+  "Source": "DomainDrivenDesign.Api",
+  "BasePath": "_content/DomainDrivenDesign.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

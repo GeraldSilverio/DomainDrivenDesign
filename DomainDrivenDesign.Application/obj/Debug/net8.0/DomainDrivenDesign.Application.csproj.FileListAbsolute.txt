@@ -1,0 +1,11 @@
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\bin\Debug\net8.0\DomainDrivenDesign.Application.deps.json
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\bin\Debug\net8.0\DomainDrivenDesign.Application.dll
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\bin\Debug\net8.0\DomainDrivenDesign.Application.pdb
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\obj\Debug\net8.0\DomainDrivenDesign.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\obj\Debug\net8.0\DomainDrivenDesign.Application.AssemblyInfoInputs.cache
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\obj\Debug\net8.0\DomainDrivenDesign.Application.AssemblyInfo.cs
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\obj\Debug\net8.0\DomainDrivenDesign.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\obj\Debug\net8.0\DomainDrivenDesign.Application.dll
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\obj\Debug\net8.0\refint\DomainDrivenDesign.Application.dll
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\obj\Debug\net8.0\DomainDrivenDesign.Application.pdb
+C:\Users\Gerald Silverio\source\repos\DomainDrivenDesign.Api\DomainDrivenDesign.Application\obj\Debug\net8.0\ref\DomainDrivenDesign.Application.dll
